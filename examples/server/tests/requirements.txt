@@ -1,4 +1,4 @@
-aiohttp~=3.9.3
+aiohttp~=3.11.11
 behave~=1.2.6
 huggingface_hub~=0.23.2
 numpy~=1.26.4
